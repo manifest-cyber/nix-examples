@@ -1,5 +1,7 @@
 # nix-examples
 
+_test_
+
 This repository serves as comprehensive list of Nix examples for various technologies. The main goal of these examples is to be as simple as possible, has the same interface and demonstrate possibilities of Nix. Note that examples are created only with official tools available in Nixpkgs. Some examples could be done better with unofficial tools, but using the most efficient solution at any cost is not purpose of these examples.
 
 Each project contains from five to nine `.nix` files and optionally deploy script `cicd.sh`:
@@ -237,4 +239,3 @@ Each example project may has own licence. All other things in this repo are lice
 
     You should have received a copy of the GNU General Public License
     along with this program. If not, see <http://www.gnu.org/licenses/>.
-
